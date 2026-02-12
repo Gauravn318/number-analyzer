@@ -40,5 +40,5 @@ A simple Python project that analyzes a list of numbers.
 
 ## Sample Output
 
-![Program Output](number_analyzer_output.png)
+![Program Output](number_analyzer_output)
 
